@@ -1,0 +1,1 @@
+{'User1': {'Monde1': '3', 'Monde2': '4', 'Solde': '15', 'skin': {'mec0': True, 'mec1': False, 'mec2': False, 'mec3': False, 'meuf0': True, 'meuf1': False, 'meuf2': False, 'meuf3': False, 'meuf4': False}, 'niv_taille': 1, 'niv_taille_deb': 1}, 'Dev': {'Monde1': '6', 'Monde2': '6'}}
